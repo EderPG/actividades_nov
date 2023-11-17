@@ -136,3 +136,24 @@ por consiguiente tendremos la resolucion al problema con los siguientes movimien
 1. (7-2)(14-19)
 
 Asi en 36 movimientos (si anotaramos uno por uno el movimiento de cada alfil) tenemos ordenados en la parte superior los alfiles blancos y en la parte inferior los alfiles negros
+
+------
+# El proceso de razonamiento según la lógica
+## Problema de Josephus
+Realizar un programa que resuelva el problema de donde se sento josephus para sobrevivir
+```
+def josephus(n, k):
+    if n == 1:
+        return 1
+    else:
+        return (josephus(n - 1, k) + k - 1) % n + 1
+
+n = 41
+
+k = 3
+
+posicion_sobreviviente = josephus(n, k)
+
+print(f"La última persona sobreviviente está en la posición: {posicion_sobreviviente}")
+
+```
