@@ -366,3 +366,28 @@ int main()
     return 0;
 }
 ```
+
+----
+# Problema Misioneros y canibales
+Tres misioneros se perdieron explorando una jungla. Separados de sus
+compañeros, sin alimento y sin radio, solo sabían que para llegar a su des￾tino debían ir siempre hacia adelante. Los tres misioneros se detuvieron
+frente a un río que les bloqueaba el paso, preguntándose que podían hacer.
+De repente, aparecieron tres caníbales llevando un bote, pues también el￾los querían cruzar el río. Ya anteriormente se habían encontrado grupos de
+misioneros y caníbales, y cada uno respetaba a los otros, pero sin confiar
+en ellos. Los caníbales se daban un festín con los misioneros cuando les
+superaban en número.
+Los tres caníbales deseaban ayudar a los misioneros a cruzar el río, pero
+su bote no podía llevar más de dos personas a la vez y los misioneros no
+querían que los caníbales les superaran en número.
+¿Cómo puede resolverse el problema, sin que en ningún momento haya
+más caníbales que misioneros en cualquier orilla del río? recuerda que un
+misionero y un caníbal en una orilla del río más uno o dos caníbales en el
+bote al mismo lado, significa que los misioneros tendrán problemas.
+
+```
+1.- pasa un monje-canibal en el bote
+2.- regresa el monje se suben 2 canibales
+3.- regresa un canibal, se suben 2 monjes y se regresa en el bote un monje-canibal
+4.- se sube el ultimo monje y al otro lado del rio se regresa el ultimo canibal en el bote
+5.- por ultimo se suben los canibales que faltan
+```
