@@ -18,7 +18,7 @@ Se centra en el aprendizaje de representación, un aspecto crítico en el proces
 El documental de IBM sobre Inteligencia Artificial (IA) es una obra audiovisual que arroja luz sobre uno de los campos tecnológicos más fascinantes y prometedores de la actualidad. A través de una narrativa cautivadora y una variedad de testimonios de expertos, el documental explora los fundamentos, avances y aplicaciones de la IA, así como su impacto en la sociedad y en la industria. A lo largo de este ensayo, analizaremos los aspectos más destacados de este documental y reflexionaremos sobre su significado en el contexto de la IA.
 
 ## Descubriendo la Inteligencia Artificial
-El documental comienza su viaje en el corazón de la IA, explicando de manera accesible y amena los conceptos fundamentales de esta disciplina. Los espectadores son introducidos al concepto de agentes inteligentes, sistemas capaces de aprender y tomar decisiones basadas en datos y patrones. Además, se exploran temas clave como el aprendizaje automático, el procesamiento de lenguaje natural y la visión por computadora.
+El documental comienza su viaje en el corazón de la IA, explicando de maner a accesible y amena los conceptos fundamentales de esta disciplina. Los espectadores son introducidos al concepto de agentes inteligentes, sistemas capaces de aprender y tomar decisiones basadas en datos y patrones. Además, se exploran temas clave como el aprendizaje automático, el procesamiento de lenguaje natural y la visión por computadora.
 
 ## Avances Tecnológicos
 Uno de los aspectos más impactantes del documental es la exposición de los avances tecnológicos en el campo de la IA. Se presentan casos de estudio en los que la IA ha demostrado su capacidad para superar a los seres humanos en tareas específicas, como el juego de ajedrez o diagnósticos médicos. Estos ejemplos son testigos del poder y el potencial de la IA para transformar industrias enteras.
@@ -370,7 +370,7 @@ int main()
 ----
 # Problema Misioneros y canibales
 Tres misioneros se perdieron explorando una jungla. Separados de sus
-compañeros, sin alimento y sin radio, solo sabían que para llegar a su des￾tino debían ir siempre hacia adelante. Los tres misioneros se detuvieron
+compañeros, sin alimento y sin radio, solo sabían que para llegar a su destino debían ir siempre hacia adelante. Los tres misioneros se detuvieron
 frente a un río que les bloqueaba el paso, preguntándose que podían hacer.
 De repente, aparecieron tres caníbales llevando un bote, pues también el￾los querían cruzar el río. Ya anteriormente se habían encontrado grupos de
 misioneros y caníbales, y cada uno respetaba a los otros, pero sin confiar
