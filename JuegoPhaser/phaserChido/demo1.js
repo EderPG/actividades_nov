@@ -256,7 +256,7 @@ function movDerecha(){
 
 // aquí la función del disparo que realiza la nave
 function disparo(){
-    velocidadBala =  -1 * velocidadRandom(600,800);
+    velocidadBala =  -1 * velocidadRandom(200,600);
     bala.body.velocity.y = 0 ;
     bala.body.velocity.x = velocidadBala ;
     balaD=true;
